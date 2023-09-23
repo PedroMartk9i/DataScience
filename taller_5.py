@@ -20,7 +20,7 @@ plt.gca().add_patch(circle)
 
 plt.xlabel('Coordenada X')
 plt.ylabel('Coordenada Y')
-plt.title('Cuadrícula con Circunferencia Inscribida')
+plt.title('Cuadrícula con Circunferencia')
 plt.grid(False)
 
 plt.grid(True, linestyle='--', alpha=0.5)
